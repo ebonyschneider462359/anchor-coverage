@@ -75,3 +75,5 @@ The following is an example. The line with the assignment to `signer` is hit onl
 [LLVM instrumentation-based coverage]: https://llvm.org/docs/CoverageMappingFormat.html
 [`anchor test`]: https://www.anchor-lang.com/docs/references/cli#test
 [from source]: https://docs.anza.xyz/cli/install#building-from-source
+
+<!-- Auto-update: 2025-10-07T06:19:55.305907 -->
