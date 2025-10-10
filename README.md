@@ -77,3 +77,5 @@ The following is an example. The line with the assignment to `signer` is hit onl
 [from source]: https://docs.anza.xyz/cli/install#building-from-source
 
 <!-- Auto-update: 2025-10-07T06:19:55.305907 -->
+
+<!-- Auto-update: 2025-10-10T17:46:54.118172 -->
